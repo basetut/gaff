@@ -1,1 +1,1 @@
-{"u1":"https://freefungame.xyz/api/index","u2":"https://sv.freefungame.xyz/api/index"}
+{"u1":"https://freefungame.xyz/api/index","u2":"http://config.freefungame.xyz/api/index"}
