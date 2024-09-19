@@ -1,1 +1,1 @@
-{"u1":"http://103.237.145.95:18008/api/index","u2":"http://103.237.145.95:18008/app/index"}
+{"u1":"https://freefungame.xyz/api/index","u2":"https://sv.freefungame.xyz/api/index"}
